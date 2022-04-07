@@ -1,0 +1,13 @@
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/service/impl/GiftCertificateServiceImpl.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/service/GiftCertificateService.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/impl/GiftCertificateRepositoryImpl.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/configuration/Config.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/mapper/TagRowMapper.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/entity/GiftCertificate.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/GiftCertificateRepository.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/entity/Tag.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/configuration/WebInitializer.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/mapper/GiftCertificateRowMapper.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/TagRepository.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/impl/TagRepositoryImpl.java
+/home/mavericano/IdeaProjects/gift-certificate-system/core/src/main/java/com/epam/esm/core/repository/CustomSQLErrorCodeTranslator.java

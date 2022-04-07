@@ -1,0 +1,15 @@
+com/epam/esm/core/service/GiftCertificateService.class
+com/epam/esm/core/repository/TagRepository.class
+com/epam/esm/core/repository/CustomSQLErrorCodeTranslator.class
+com/epam/esm/core/service/impl/GiftCertificateServiceImpl.class
+com/epam/esm/core/repository/impl/GiftCertificateRepositoryImpl.class
+com/epam/esm/core/configuration/WebInitializer.class
+com/epam/esm/core/repository/GiftCertificateRepository.class
+com/epam/esm/core/configuration/Config.class
+com/epam/esm/core/repository/mapper/TagRowMapper.class
+com/epam/esm/core/entity/GiftCertificate$GiftCertificateBuilder.class
+com/epam/esm/core/entity/Tag.class
+com/epam/esm/core/repository/mapper/GiftCertificateRowMapper.class
+com/epam/esm/core/repository/impl/TagRepositoryImpl.class
+com/epam/esm/core/entity/GiftCertificate.class
+com/epam/esm/core/entity/Tag$TagBuilder.class
